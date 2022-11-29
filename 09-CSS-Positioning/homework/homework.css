@@ -68,8 +68,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #elementoDos{
     background-color: rgb(202, 196, 208);
     align-self: flex-end;
-}
-#elementoTres{
+    }
+    #elementoTres{
     background-color: rgb(155, 133, 174);
     align-self: flex-end;
 }
